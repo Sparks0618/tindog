@@ -57,7 +57,7 @@ p{
     font-size: 1.25rem;
 }
 
-/* Download btn */
+
 
 
 /* title section */
@@ -75,6 +75,7 @@ p{
     position: absolute;
     right: 25%;
 }
+/* Download btn */
 .download-btn{
     margin: 5% 3% 3% 0%;
 }
